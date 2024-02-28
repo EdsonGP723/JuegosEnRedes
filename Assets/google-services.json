@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86013959909",
+    "project_id": "juegosenredes-bff55",
+    "storage_bucket": "juegosenredes-bff55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86013959909:android:79c8a68f13f046484a3e0c",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7ETU_JzxgQxOzat-O2aGpSxtZ9PYdyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
